@@ -1,2 +1,2 @@
 # Front-3TRI
-Site de empresa para recrutar novos trabalhadores, com formulário para enviar curriculum
+Site de veterinario onde o cliente pode ver seu perfil, pets, consultas e o seu plano de saúde pet.
