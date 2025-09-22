@@ -5,7 +5,8 @@
 
 
 .navbar{
-    background-color: #c7ffde;
+    background-color: #e3cefd;
+    box-shadow: 0px 0px 20px #e0e6e3;
     
 }
 
@@ -29,8 +30,8 @@
 
 /*footer*/
 footer{
-        margin-top: 13%;
-        background-color: #659177;
+        margin-top: 12%;
+        background-color: #c99dff;
         display: flex;
         justify-content: space-around;
         padding: 25px 15px;
@@ -45,10 +46,12 @@ footer{
 
     footer h1{
         font-size: 220%;
+        font-family: 'Mogra', serif;
     }
 
     footer p, a{
         font-size: 145%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
     }
 
@@ -60,9 +63,9 @@ footer{
     .tipoDisplay{
         display: flex;
         flex-direction: column;
-        background-color: #6e997f;
+        background-color: #dcbeff;
         border-radius: 20px;
-        padding: 25px 15px;
+        padding: 2%;
         width: 35%;
     }
 
